@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"GitGutter",
+		"LaTeXTools",
+		"Monokai Extended",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-scalastyle",
+		"Theme - Flatland",
+		"Theme - Soda"
+	]
+}
