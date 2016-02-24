@@ -3,6 +3,10 @@
 	"auto_indent": true,
 	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"rulers":
 	[
 		79
@@ -12,6 +16,7 @@
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
 	"trim_automatic_white_space": true,
+	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true,
 	"word_wrap": true,
 	"wrap_width": 80
